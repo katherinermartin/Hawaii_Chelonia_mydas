@@ -1,14 +1,14 @@
 ## Code and data associated with Adkins et al.
 
-# Code:
+### Code:
 
 `phylogeny_CV_FL_HI.R`: script to generate phylogeny figures
 
-# Data
+### Data
 
 `Cc_Cm_CV_FL_HI_allele_counts_by_species_locality_zeroes_ones.csv`: dataframe of alleles and what population or location they are in, by species; for input to phylogeny_CV_FL_HI.R
 
-# Files
+### Files
 
 `classI_Hawaiian_Cm_trimmedoutgroup.fasta`: edited Clustal Omega alignment of MHC alleles
 
