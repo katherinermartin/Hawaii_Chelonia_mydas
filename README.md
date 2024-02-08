@@ -1,6 +1,6 @@
 ## Code and data associated with Adkins et al.
 
-`phylogeny_CV_FL_HI.R`: script to generate  phylogeny figures in text.
+`phylogeny_CV_FL_HI.R`: script to generate phylogeny figures.
 
 `Cc_Cm_CV_FL_HI_allele_counts_by_species_locality_zeroes_ones.csv`: dataframe of alleles and what population or location they are in, by species; for input to phylogeny_CV_FL_HI.R
 
