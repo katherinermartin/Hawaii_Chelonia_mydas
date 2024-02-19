@@ -2,7 +2,7 @@
 
 ### Code:
 
-`phylogeny_CV_FL_HI.R`: script to generate phylogeny figures
+`phylogeny.R`: script to generate phylogeny figures
 
 ### Data
 
